@@ -17,7 +17,17 @@ technical skill — is what I bring to a BI or automation-focused role.
 - 📊 Tools: Power BI (DAX, Power Query, data modeling), SQL, Google Apps Script,
   Python (pandas/matplotlib)
 
-**Pinned repos:**
+**Projects:**
+- [`landed-cost`](https://github.com/e-ibarra/landed-cost): import landed-cost
+  calculator and Incoterms 2020 explorer (Spanish/English). It covers customs value from
+  any Incoterm, Argentine duties and taxes, cash needed vs. real cost, and per-unit pricing.
+  **[Try it live](https://e-ibarra.github.io/landed-cost/)**
+- [`gas-resumable`](https://github.com/e-ibarra/gas-resumable): lets Google Apps Script
+  jobs of any size survive the 6-minute execution limit, with checkpointed batches,
+  automatic continuation, retries and dead letters
+- [`sheet-sentinel`](https://github.com/e-ibarra/sheet-sentinel): no-code data validation
+  for Google Sheets. Business users write rules in a tab (English or Spanish) and get flagged
+  cells, an Issues report and live checks as they type
 - [`foreign-trade-bi-portfolio`](https://github.com/e-ibarra/foreign-trade-bi-portfolio) —
   Python + SQL analytics project, star-schema data modeling, DAX-equivalent KPI logic
 - [`sql-certification-practice`](https://github.com/e-ibarra/sql-certification-practice) —
